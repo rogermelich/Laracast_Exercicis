@@ -17,6 +17,8 @@ class Person {
     }
 
 }
+
+
 class Bussines {
 
     protected $staff;
